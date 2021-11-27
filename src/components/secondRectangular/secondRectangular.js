@@ -48,7 +48,7 @@ const StyledSecondDiv = styled.div`
 const SecondRectangular = () => {
     return (
         <StyledSecondRectangular>
-            <StyledSecondDiv>IDEA(2)</StyledSecondDiv>
+            <StyledSecondDiv>IDEA</StyledSecondDiv>
         </StyledSecondRectangular>
     )
 }

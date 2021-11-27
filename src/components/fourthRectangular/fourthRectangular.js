@@ -54,7 +54,7 @@ const StyledFourth = styled.div`
 const FourthRectangular = () => {
     return (
         <StyledFourthRectangular>
-            <StyledFourth>IDEA(4)</StyledFourth>
+            <StyledFourth>IDEA</StyledFourth>
         </StyledFourthRectangular>
     )
 }

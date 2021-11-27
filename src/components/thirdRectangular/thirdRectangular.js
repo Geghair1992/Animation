@@ -49,7 +49,7 @@ const StyledThird = styled.div`
 const ThirdRectangular = () => {
     return (
         <StyledThirdRectangular>
-            <StyledThird>IDEA(3)</StyledThird>
+            <StyledThird>IDEA</StyledThird>
         </StyledThirdRectangular>
     )
 }

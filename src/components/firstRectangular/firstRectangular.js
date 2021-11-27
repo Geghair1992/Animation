@@ -49,7 +49,7 @@ const StyledFirstDiv = styled.div`
 const FirstRectangular = () => {
     return (
         <StyledFirstRectangular>
-            <StyledFirstDiv>IDEA(1)</StyledFirstDiv>
+            <StyledFirstDiv>IDEA</StyledFirstDiv>
         </StyledFirstRectangular>
     )
 }

@@ -26,7 +26,7 @@ const StyledSection = styled.body`
   position: relative;
   top: 0px;
   left: 340px;
-  border: 5px dotted #fff;
+  border: 5px dotted #000;
 `
 
 const StyledSquare = styled.div`
@@ -37,7 +37,7 @@ const StyledSquare = styled.div`
   /* left: 50%;
   top: 50%; */
   left: 15%;
-  top: 23%;
+  top: 15%;
   transform: translate(-50%,-50%);
   border: 2px solid #fff;
   animation: ${Rotation} 6s ease infinite;
